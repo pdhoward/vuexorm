@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-eslint": "^3.0.4",
+    "@vue/cli-service": "^3.0.4",
+    "@vue/eslint-config-standard": "^3.0.4",
+    "@vuex-orm/core": "^0.26.2",
+    "normalize.css": "^8.0.0",
+    "postcss-css-variables": "^0.10.0",
+    "postcss-import": "^12.0.0",
+    "postcss-nested": "^4.1.0",
+    "vue": "^2.5.17",
+    "vue-template-compiler": "^2.5.17",
+    "vuex": "^3.0.1"
+  }
+}
