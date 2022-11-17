@@ -8,7 +8,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.4",
     "@vue/cli-plugin-eslint": "^3.0.4",
-    "@vue/cli-service": "^3.0.4",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-standard": "^3.0.4",
     "@vuex-orm/core": "^0.26.2",
     "normalize.css": "^8.0.0",
